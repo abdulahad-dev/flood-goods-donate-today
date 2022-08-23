@@ -35,7 +35,7 @@ p {
 #donation-banner-area {
     display: flex;
     align-items: center;
-    background-image: url(/images/donation12.png);
+    background-image: url('/images/donation12.png');
     height: 700px;
     background-repeat: no-repeat;
     width: 100%;
