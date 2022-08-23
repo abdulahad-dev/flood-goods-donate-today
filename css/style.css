@@ -26,9 +26,7 @@ p {
     padding-bottom: 50px;
 }
 
-/* section {
-    margin: 200px 0;
-} */
+
 
 .flexible-container {
     display: flex;
@@ -216,4 +214,19 @@ footer h1 {
     line-height: 44px;
     letter-spacing: 0.5px;
     color: #FF5959;
+}
+
+#work-gallary {
+    text-align: center;
+}
+
+.gallery {
+    padding: 17px;
+    border: 2px solid #e5e5e5;
+    margin: 20px;
+}
+
+.gallery img {
+    width: 220px;
+    height: 190px;
 }
